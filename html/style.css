@@ -1,0 +1,14 @@
+h1{
+    Color:red;
+    text-align: center;
+    font: size 4em;;
+}
+div{
+    color:green;
+    font-size: 20px;
+    border:dotted 3px ;
+}
+p{
+    font-size:4em;
+    color:blue;
+}
